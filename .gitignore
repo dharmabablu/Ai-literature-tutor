@@ -1,8 +1,0 @@
-node_modules/
-.env
-*.sqlite
-*.sqlite-journal
-dist/
-build/
-.DS_Store
-temp_recovery/
